@@ -1,0 +1,36 @@
+|==============================================================================|
+|=========                      OpenRAM v1.1.19                       =========|
+|=========                                                            =========|
+|=========               VLSI Design and Automation Lab               =========|
+|=========        Computer Science and Engineering Department         =========|
+|=========            University of California Santa Cruz             =========|
+|=========                                                            =========|
+|=========          Usage help: openram-user-group@ucsc.edu           =========|
+|=========        Development help: openram-dev-group@ucsc.edu        =========|
+|=========         Temp dir: /tmp/openram_siddhant_3453_temp/         =========|
+|=========                See LICENSE for license info                =========|
+|==============================================================================|
+** Start: 03/26/2022 18:49:22
+Technology: freepdk45
+Total size: 8192 bits
+Word size: 32
+Words: 128
+Banks: 2
+Write size: None
+RW ports: 1
+R-only ports: 0
+W-only ports: 0
+DRC/LVS/PEX is only run on the top-level design to save run-time (inline_lvsdrc=True to do inline checking).
+DRC/LVS/PEX is disabled (check_lvsdrc=True to enable).
+Characterization is disabled (using analytical delay models) (analytical_delay=False to simulate).
+Words per row: 2
+Output files are: 
+/home/siddhant/Documents/openRAM/32_x_128_2Bank/output/SRAM_32x128_1rw.lvs
+/home/siddhant/Documents/openRAM/32_x_128_2Bank/output/SRAM_32x128_1rw.sp
+/home/siddhant/Documents/openRAM/32_x_128_2Bank/output/SRAM_32x128_1rw.v
+/home/siddhant/Documents/openRAM/32_x_128_2Bank/output/SRAM_32x128_1rw.lib
+/home/siddhant/Documents/openRAM/32_x_128_2Bank/output/SRAM_32x128_1rw.py
+/home/siddhant/Documents/openRAM/32_x_128_2Bank/output/SRAM_32x128_1rw.html
+/home/siddhant/Documents/openRAM/32_x_128_2Bank/output/SRAM_32x128_1rw.log
+/home/siddhant/Documents/openRAM/32_x_128_2Bank/output/SRAM_32x128_1rw.lef
+/home/siddhant/Documents/openRAM/32_x_128_2Bank/output/SRAM_32x128_1rw.gds

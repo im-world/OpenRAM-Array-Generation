@@ -1,0 +1,37 @@
+|==============================================================================|
+|=========                      OpenRAM v1.1.19                       =========|
+|=========                                                            =========|
+|=========               VLSI Design and Automation Lab               =========|
+|=========        Computer Science and Engineering Department         =========|
+|=========            University of California Santa Cruz             =========|
+|=========                                                            =========|
+|=========          Usage help: openram-user-group@ucsc.edu           =========|
+|=========        Development help: openram-dev-group@ucsc.edu        =========|
+|=========         Temp dir: /tmp/openram_siddhant_3330_temp/         =========|
+|=========                See LICENSE for license info                =========|
+|==============================================================================|
+** Start: 03/26/2022 18:28:22
+Technology: freepdk45
+Total size: 1024 bits
+Word size: 16
+Words: 32
+Banks: 2
+Write size: None
+RW ports: 1
+R-only ports: 0
+W-only ports: 0
+DRC/LVS/PEX is only run on the top-level design to save run-time (inline_lvsdrc=True to do inline checking).
+DRC/LVS/PEX is disabled (check_lvsdrc=True to enable).
+Characterization is disabled (using analytical delay models) (analytical_delay=False to simulate).
+Only generating nominal corner timing.
+Words per row: 1
+Output files are: 
+/home/siddhant/Documents/openRAM/16_x_16_2Bank/temp/sram_16_32_freepdk45.lvs
+/home/siddhant/Documents/openRAM/16_x_16_2Bank/temp/sram_16_32_freepdk45.sp
+/home/siddhant/Documents/openRAM/16_x_16_2Bank/temp/sram_16_32_freepdk45.v
+/home/siddhant/Documents/openRAM/16_x_16_2Bank/temp/sram_16_32_freepdk45.lib
+/home/siddhant/Documents/openRAM/16_x_16_2Bank/temp/sram_16_32_freepdk45.py
+/home/siddhant/Documents/openRAM/16_x_16_2Bank/temp/sram_16_32_freepdk45.html
+/home/siddhant/Documents/openRAM/16_x_16_2Bank/temp/sram_16_32_freepdk45.log
+/home/siddhant/Documents/openRAM/16_x_16_2Bank/temp/sram_16_32_freepdk45.lef
+/home/siddhant/Documents/openRAM/16_x_16_2Bank/temp/sram_16_32_freepdk45.gds

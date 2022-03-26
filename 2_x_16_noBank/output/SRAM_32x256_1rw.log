@@ -1,0 +1,55 @@
+|==============================================================================|
+|=========                      OpenRAM v1.1.19                       =========|
+|=========                                                            =========|
+|=========               VLSI Design and Automation Lab               =========|
+|=========        Computer Science and Engineering Department         =========|
+|=========            University of California Santa Cruz             =========|
+|=========                                                            =========|
+|=========          Usage help: openram-user-group@ucsc.edu           =========|
+|=========        Development help: openram-dev-group@ucsc.edu        =========|
+|=========         Temp dir: /tmp/openram_siddhant_3493_temp/         =========|
+|=========                See LICENSE for license info                =========|
+|==============================================================================|
+** Start: 03/26/2022 19:00:19
+Technology: freepdk45
+Total size: 8192 bits
+Word size: 32
+Words: 256
+Banks: 1
+Write size: None
+RW ports: 1
+R-only ports: 0
+W-only ports: 0
+DRC/LVS/PEX is only run on the top-level design to save run-time (inline_lvsdrc=True to do inline checking).
+DRC/LVS/PEX is disabled (check_lvsdrc=True to enable).
+Characterization is disabled (using analytical delay models) (analytical_delay=False to simulate).
+Words per row: 8
+Output files are: 
+/home/siddhant/Documents/openRAM/32_x_256_noBank/output/SRAM_32x256_1rw.lvs
+/home/siddhant/Documents/openRAM/32_x_256_noBank/output/SRAM_32x256_1rw.sp
+/home/siddhant/Documents/openRAM/32_x_256_noBank/output/SRAM_32x256_1rw.v
+/home/siddhant/Documents/openRAM/32_x_256_noBank/output/SRAM_32x256_1rw.lib
+/home/siddhant/Documents/openRAM/32_x_256_noBank/output/SRAM_32x256_1rw.py
+/home/siddhant/Documents/openRAM/32_x_256_noBank/output/SRAM_32x256_1rw.html
+/home/siddhant/Documents/openRAM/32_x_256_noBank/output/SRAM_32x256_1rw.log
+/home/siddhant/Documents/openRAM/32_x_256_noBank/output/SRAM_32x256_1rw.lef
+/home/siddhant/Documents/openRAM/32_x_256_noBank/output/SRAM_32x256_1rw.gds
+** Submodules: 6.8 seconds
+** Placement: 0.1 seconds
+**** Retrieving pins: 0.0 seconds
+**** Analyzing pins: 0.0 seconds
+**** Finding blockages: 3.4 seconds
+**** Converting blockages: 0.2 seconds
+**** Converting pins: 0.2 seconds
+**** Separating adjacent pins: 0.0 seconds
+**** Enclosing pins: 0.1 seconds
+*** Finding pins and blockages: 52.5 seconds
+*** Maze routing pins: 138.9 seconds
+**** Retrieving pins: 0.1 seconds
+**** Analyzing pins: 8.0 seconds
+**** Finding blockages: 10.7 seconds
+**** Converting blockages: 0.1 seconds
+**** Converting pins: 4.7 seconds
+**** Separating adjacent pins: 5.9 seconds
+**** Enclosing pins: 9.6 seconds
+*** Finding pins and blockages: 91.8 seconds

@@ -1,0 +1,76 @@
+|==============================================================================|
+|=========                      OpenRAM v1.1.19                       =========|
+|=========                                                            =========|
+|=========               VLSI Design and Automation Lab               =========|
+|=========        Computer Science and Engineering Department         =========|
+|=========            University of California Santa Cruz             =========|
+|=========                                                            =========|
+|=========          Usage help: openram-user-group@ucsc.edu           =========|
+|=========        Development help: openram-dev-group@ucsc.edu        =========|
+|=========         Temp dir: /tmp/openram_siddhant_3598_temp/         =========|
+|=========                See LICENSE for license info                =========|
+|==============================================================================|
+** Start: 03/26/2022 19:21:35
+Technology: freepdk45
+Total size: 32 bits
+Word size: 2
+Words: 16
+Banks: 1
+Write size: None
+RW ports: 1
+R-only ports: 0
+W-only ports: 0
+DRC/LVS/PEX is only run on the top-level design to save run-time (inline_lvsdrc=True to do inline checking).
+DRC/LVS/PEX is disabled (check_lvsdrc=True to enable).
+Characterization is disabled (using analytical delay models) (analytical_delay=False to simulate).
+Words per row: 1
+Output files are: 
+/home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.lvs
+/home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.sp
+/home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.v
+/home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.lib
+/home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.py
+/home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.html
+/home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.log
+/home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.lef
+/home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.gds
+** Submodules: 0.5 seconds
+** Placement: 0.0 seconds
+**** Retrieving pins: 0.0 seconds
+**** Analyzing pins: 0.0 seconds
+**** Finding blockages: 0.1 seconds
+**** Converting blockages: 0.0 seconds
+**** Converting pins: 0.0 seconds
+**** Separating adjacent pins: 0.0 seconds
+**** Enclosing pins: 0.0 seconds
+*** Finding pins and blockages: 1.2 seconds
+*** Maze routing pins: 1.9 seconds
+**** Retrieving pins: 0.0 seconds
+**** Analyzing pins: 0.0 seconds
+**** Finding blockages: 0.2 seconds
+**** Converting blockages: 0.0 seconds
+**** Converting pins: 0.3 seconds
+**** Separating adjacent pins: 0.0 seconds
+**** Enclosing pins: 0.2 seconds
+*** Finding pins and blockages: 1.9 seconds
+*** Maze routing supplies: 8.7 seconds
+** Routing: 23.2 seconds
+** Verification: 0.0 seconds
+** SRAM creation: 23.7 seconds
+SP: Writing to /home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.sp
+** Spice writing: 0.1 seconds
+GDS: Writing to /home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.gds
+** GDS: 0.1 seconds
+LEF: Writing to /home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.lef
+** LEF: 0.0 seconds
+LVS: Writing to /home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.lvs.sp
+** LVS writing: 0.0 seconds
+LIB: Characterizing... 
+** Characterization: 0.3 seconds
+Config: Writing to /home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.py
+** Config: 0.0 seconds
+Datasheet: Writing to /home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.html
+** Datasheet: 0.0 seconds
+Verilog: Writing to /home/siddhant/Documents/openRAM/2_x_16_noBank/output/SRAM_2x16_1rw.v
+** Verilog: 0.0 seconds
+** End: 24.2 seconds
